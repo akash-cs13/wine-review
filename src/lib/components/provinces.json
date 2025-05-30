@@ -1,0 +1,1542 @@
+[
+  {
+    "value": "achaia",
+    "label": "Achaia"
+  },
+  {
+    "value": "aconcagua costa",
+    "label": "Aconcagua Costa"
+  },
+  {
+    "value": "aconcagua valley",
+    "label": "Aconcagua Valley"
+  },
+  {
+    "value": "aegean",
+    "label": "Aegean"
+  },
+  {
+    "value": "agioritikos",
+    "label": "Agioritikos"
+  },
+  {
+    "value": "ahr",
+    "label": "Ahr"
+  },
+  {
+    "value": "alenquer",
+    "label": "Alenquer"
+  },
+  {
+    "value": "alentejano",
+    "label": "Alentejano"
+  },
+  {
+    "value": "alentejo",
+    "label": "Alentejo"
+  },
+  {
+    "value": "alenteo",
+    "label": "Alenteo"
+  },
+  {
+    "value": "algarve",
+    "label": "Algarve"
+  },
+  {
+    "value": "alsace",
+    "label": "Alsace"
+  },
+  {
+    "value": "america",
+    "label": "America"
+  },
+  {
+    "value": "amindeo",
+    "label": "Amindeo"
+  },
+  {
+    "value": "amyndeon",
+    "label": "Amyndeon"
+  },
+  {
+    "value": "andalucia",
+    "label": "Andalucia"
+  },
+  {
+    "value": "ankara",
+    "label": "Ankara"
+  },
+  {
+    "value": "apalta",
+    "label": "Apalta"
+  },
+  {
+    "value": "arcadia",
+    "label": "Arcadia"
+  },
+  {
+    "value": "arizona",
+    "label": "Arizona"
+  },
+  {
+    "value": "armenia",
+    "label": "Armenia"
+  },
+  {
+    "value": "atalanti valley",
+    "label": "Atalanti Valley"
+  },
+  {
+    "value": "atlantida",
+    "label": "Atlantida"
+  },
+  {
+    "value": "attica",
+    "label": "Attica"
+  },
+  {
+    "value": "australia other",
+    "label": "Australia Other"
+  },
+  {
+    "value": "austria",
+    "label": "Austria"
+  },
+  {
+    "value": "awatere valley",
+    "label": "Awatere Valley"
+  },
+  {
+    "value": "baden",
+    "label": "Baden"
+  },
+  {
+    "value": "bairrada",
+    "label": "Bairrada"
+  },
+  {
+    "value": "beaujolais",
+    "label": "Beaujolais"
+  },
+  {
+    "value": "beira atlantico",
+    "label": "Beira Atlantico"
+  },
+  {
+    "value": "beira interior",
+    "label": "Beira Interior"
+  },
+  {
+    "value": "beiras",
+    "label": "Beiras"
+  },
+  {
+    "value": "bekaa valley",
+    "label": "Bekaa Valley"
+  },
+  {
+    "value": "beotia",
+    "label": "Beotia"
+  },
+  {
+    "value": "black sea coastal",
+    "label": "Black Sea Coastal"
+  },
+  {
+    "value": "bordeaux",
+    "label": "Bordeaux"
+  },
+  {
+    "value": "bot river",
+    "label": "Bot River"
+  },
+  {
+    "value": "brazil",
+    "label": "Brazil"
+  },
+  {
+    "value": "brda",
+    "label": "Brda"
+  },
+  {
+    "value": "breede river valley",
+    "label": "Breede River Valley"
+  },
+  {
+    "value": "breedekloof",
+    "label": "Breedekloof"
+  },
+  {
+    "value": "british columbia",
+    "label": "British Columbia"
+  },
+  {
+    "value": "bucelas",
+    "label": "Bucelas"
+  },
+  {
+    "value": "buin",
+    "label": "Buin"
+  },
+  {
+    "value": "bulgaria",
+    "label": "Bulgaria"
+  },
+  {
+    "value": "burgenland",
+    "label": "Burgenland"
+  },
+  {
+    "value": "burgundy",
+    "label": "Burgundy"
+  },
+  {
+    "value": "cachapoal valley",
+    "label": "Cachapoal Valley"
+  },
+  {
+    "value": "cahul",
+    "label": "Cahul"
+  },
+  {
+    "value": "california",
+    "label": "California"
+  },
+  {
+    "value": "campanha",
+    "label": "Campanha"
+  },
+  {
+    "value": "canada other",
+    "label": "Canada Other"
+  },
+  {
+    "value": "canelones",
+    "label": "Canelones"
+  },
+  {
+    "value": "canterbury",
+    "label": "Canterbury"
+  },
+  {
+    "value": "cape agulhas",
+    "label": "Cape Agulhas"
+  },
+  {
+    "value": "cape peninsula",
+    "label": "Cape Peninsula"
+  },
+  {
+    "value": "cape south coast",
+    "label": "Cape South Coast"
+  },
+  {
+    "value": "cappadocia",
+    "label": "Cappadocia"
+  },
+  {
+    "value": "carnuntum",
+    "label": "Carnuntum"
+  },
+  {
+    "value": "casablanca valley",
+    "label": "Casablanca Valley"
+  },
+  {
+    "value": "catalonia",
+    "label": "Catalonia"
+  },
+  {
+    "value": "cauquenes valley",
+    "label": "Cauquenes Valley"
+  },
+  {
+    "value": "cederberg",
+    "label": "Cederberg"
+  },
+  {
+    "value": "central greece",
+    "label": "Central Greece"
+  },
+  {
+    "value": "central italy",
+    "label": "Central Italy"
+  },
+  {
+    "value": "central otago",
+    "label": "Central Otago"
+  },
+  {
+    "value": "central spain",
+    "label": "Central Spain"
+  },
+  {
+    "value": "central valley",
+    "label": "Central Valley"
+  },
+  {
+    "value": "cephalonia",
+    "label": "Cephalonia"
+  },
+  {
+    "value": "ceres plateau",
+    "label": "Ceres Plateau"
+  },
+  {
+    "value": "chalkidiki",
+    "label": "Chalkidiki"
+  },
+  {
+    "value": "champagne",
+    "label": "Champagne"
+  },
+  {
+    "value": "chile",
+    "label": "Chile"
+  },
+  {
+    "value": "china",
+    "label": "China"
+  },
+  {
+    "value": "choapa valley",
+    "label": "Choapa Valley"
+  },
+  {
+    "value": "coastal region",
+    "label": "Coastal Region"
+  },
+  {
+    "value": "codru region",
+    "label": "Codru Region"
+  },
+  {
+    "value": "coelemu",
+    "label": "Coelemu"
+  },
+  {
+    "value": "colares",
+    "label": "Colares"
+  },
+  {
+    "value": "colchagua costa",
+    "label": "Colchagua Costa"
+  },
+  {
+    "value": "colchagua valley",
+    "label": "Colchagua Valley"
+  },
+  {
+    "value": "colorado",
+    "label": "Colorado"
+  },
+  {
+    "value": "commandaria",
+    "label": "Commandaria"
+  },
+  {
+    "value": "connecticut",
+    "label": "Connecticut"
+  },
+  {
+    "value": "constantia",
+    "label": "Constantia"
+  },
+  {
+    "value": "corinth",
+    "label": "Corinth"
+  },
+  {
+    "value": "corinthia",
+    "label": "Corinthia"
+  },
+  {
+    "value": "crete",
+    "label": "Crete"
+  },
+  {
+    "value": "croatia",
+    "label": "Croatia"
+  },
+  {
+    "value": "cyclades",
+    "label": "Cyclades"
+  },
+  {
+    "value": "cyprus",
+    "label": "Cyprus"
+  },
+  {
+    "value": "dalmatian coast",
+    "label": "Dalmatian Coast"
+  },
+  {
+    "value": "dan",
+    "label": "Dan"
+  },
+  {
+    "value": "danube river plains",
+    "label": "Danube River Plains"
+  },
+  {
+    "value": "darling",
+    "label": "Darling"
+  },
+  {
+    "value": "dealu mare",
+    "label": "Dealu Mare"
+  },
+  {
+    "value": "dealurile munteniei",
+    "label": "Dealurile Munteniei"
+  },
+  {
+    "value": "devon valley",
+    "label": "Devon Valley"
+  },
+  {
+    "value": "dolenjska",
+    "label": "Dolenjska"
+  },
+  {
+    "value": "douro",
+    "label": "Douro"
+  },
+  {
+    "value": "drama",
+    "label": "Drama"
+  },
+  {
+    "value": "durbanville",
+    "label": "Durbanville"
+  },
+  {
+    "value": "duriense",
+    "label": "Duriense"
+  },
+  {
+    "value": "east coast",
+    "label": "East Coast"
+  },
+  {
+    "value": "eger",
+    "label": "Eger"
+  },
+  {
+    "value": "egypt",
+    "label": "Egypt"
+  },
+  {
+    "value": "eilandia",
+    "label": "Eilandia"
+  },
+  {
+    "value": "eisenberg",
+    "label": "Eisenberg"
+  },
+  {
+    "value": "elgin",
+    "label": "Elgin"
+  },
+  {
+    "value": "elim",
+    "label": "Elim"
+  },
+  {
+    "value": "ella valley",
+    "label": "Ella Valley"
+  },
+  {
+    "value": "elqui valley",
+    "label": "Elqui Valley"
+  },
+  {
+    "value": "england",
+    "label": "England"
+  },
+  {
+    "value": "epanomi",
+    "label": "Epanomi"
+  },
+  {
+    "value": "estremadura",
+    "label": "Estremadura"
+  },
+  {
+    "value": "florina",
+    "label": "Florina"
+  },
+  {
+    "value": "france other",
+    "label": "France Other"
+  },
+  {
+    "value": "franken",
+    "label": "Franken"
+  },
+  {
+    "value": "franschhoek",
+    "label": "Franschhoek"
+  },
+  {
+    "value": "galicia",
+    "label": "Galicia"
+  },
+  {
+    "value": "galil",
+    "label": "Galil"
+  },
+  {
+    "value": "galilee",
+    "label": "Galilee"
+  },
+  {
+    "value": "georgia",
+    "label": "Georgia"
+  },
+  {
+    "value": "germany",
+    "label": "Germany"
+  },
+  {
+    "value": "gisborne",
+    "label": "Gisborne"
+  },
+  {
+    "value": "gladstone",
+    "label": "Gladstone"
+  },
+  {
+    "value": "golan heights",
+    "label": "Golan Heights"
+  },
+  {
+    "value": "goriska brda",
+    "label": "Goriska Brda"
+  },
+  {
+    "value": "goumenissa",
+    "label": "Goumenissa"
+  },
+  {
+    "value": "greece",
+    "label": "Greece"
+  },
+  {
+    "value": "groenekloof",
+    "label": "Groenekloof"
+  },
+  {
+    "value": "guerrouane",
+    "label": "Guerrouane"
+  },
+  {
+    "value": "halkidiki",
+    "label": "Halkidiki"
+  },
+  {
+    "value": "hawaii",
+    "label": "Hawaii"
+  },
+  {
+    "value": "helderberg",
+    "label": "Helderberg"
+  },
+  {
+    "value": "hemel en aarde",
+    "label": "Hemel en Aarde"
+  },
+  {
+    "value": "hrvatsko primorje",
+    "label": "Hrvatsko Primorje"
+  },
+  {
+    "value": "hungary",
+    "label": "Hungary"
+  },
+  {
+    "value": "hvar",
+    "label": "Hvar"
+  },
+  {
+    "value": "ica",
+    "label": "Ica"
+  },
+  {
+    "value": "idaho",
+    "label": "Idaho"
+  },
+  {
+    "value": "illinois",
+    "label": "Illinois"
+  },
+  {
+    "value": "imathia",
+    "label": "Imathia"
+  },
+  {
+    "value": "iowa",
+    "label": "Iowa"
+  },
+  {
+    "value": "ismarikos",
+    "label": "Ismarikos"
+  },
+  {
+    "value": "israel",
+    "label": "Israel"
+  },
+  {
+    "value": "istria",
+    "label": "Istria"
+  },
+  {
+    "value": "italy other",
+    "label": "Italy Other"
+  },
+  {
+    "value": "itata valley",
+    "label": "Itata Valley"
+  },
+  {
+    "value": "jerusalem hills",
+    "label": "Jerusalem Hills"
+  },
+  {
+    "value": "jidvei",
+    "label": "Jidvei"
+  },
+  {
+    "value": "jonkershoek valley",
+    "label": "Jonkershoek Valley"
+  },
+  {
+    "value": "juanico",
+    "label": "Juanico"
+  },
+  {
+    "value": "judean hills",
+    "label": "Judean Hills"
+  },
+  {
+    "value": "kakheti",
+    "label": "Kakheti"
+  },
+  {
+    "value": "kamptal",
+    "label": "Kamptal"
+  },
+  {
+    "value": "kathikas",
+    "label": "Kathikas"
+  },
+  {
+    "value": "kentucky",
+    "label": "Kentucky"
+  },
+  {
+    "value": "korinthia",
+    "label": "Korinthia"
+  },
+  {
+    "value": "krania olympus",
+    "label": "Krania Olympus"
+  },
+  {
+    "value": "kras",
+    "label": "Kras"
+  },
+  {
+    "value": "kremstal",
+    "label": "Kremstal"
+  },
+  {
+    "value": "krk",
+    "label": "Krk"
+  },
+  {
+    "value": "kumeu",
+    "label": "Kumeu"
+  },
+  {
+    "value": "kutjevo",
+    "label": "Kutjevo"
+  },
+  {
+    "value": "lakonia",
+    "label": "Lakonia"
+  },
+  {
+    "value": "landwein rhein",
+    "label": "Landwein Rhein"
+  },
+  {
+    "value": "languedoc-roussillon",
+    "label": "Languedoc-Roussillon"
+  },
+  {
+    "value": "lebanon",
+    "label": "Lebanon"
+  },
+  {
+    "value": "leithaberg",
+    "label": "Leithaberg"
+  },
+  {
+    "value": "lemesos",
+    "label": "Lemesos"
+  },
+  {
+    "value": "lesbos",
+    "label": "Lesbos"
+  },
+  {
+    "value": "letrinon",
+    "label": "Letrinon"
+  },
+  {
+    "value": "levante",
+    "label": "Levante"
+  },
+  {
+    "value": "leyda valley",
+    "label": "Leyda Valley"
+  },
+  {
+    "value": "leyda valley-maipo valley",
+    "label": "Leyda Valley-Maipo Valley"
+  },
+  {
+    "value": "limnos",
+    "label": "Limnos"
+  },
+  {
+    "value": "lisboa",
+    "label": "Lisboa"
+  },
+  {
+    "value": "loire valley",
+    "label": "Loire Valley"
+  },
+  {
+    "value": "lolol valley",
+    "label": "Lolol Valley"
+  },
+  {
+    "value": "lombardy",
+    "label": "Lombardy"
+  },
+  {
+    "value": "loncomilla valley",
+    "label": "Loncomilla Valley"
+  },
+  {
+    "value": "lutzville valley",
+    "label": "Lutzville Valley"
+  },
+  {
+    "value": "macedonia",
+    "label": "Macedonia"
+  },
+  {
+    "value": "madeira",
+    "label": "Madeira"
+  },
+  {
+    "value": "maipo valley",
+    "label": "Maipo Valley"
+  },
+  {
+    "value": "maipo valley-colchagua valley",
+    "label": "Maipo Valley-Colchagua Valley"
+  },
+  {
+    "value": "malgas",
+    "label": "Malgas"
+  },
+  {
+    "value": "malleco",
+    "label": "Malleco"
+  },
+  {
+    "value": "mantinia",
+    "label": "Mantinia"
+  },
+  {
+    "value": "marchigue",
+    "label": "Marchigue"
+  },
+  {
+    "value": "markopoulo",
+    "label": "Markopoulo"
+  },
+  {
+    "value": "marlborough",
+    "label": "Marlborough"
+  },
+  {
+    "value": "martinborough",
+    "label": "Martinborough"
+  },
+  {
+    "value": "massachusetts",
+    "label": "Massachusetts"
+  },
+  {
+    "value": "maule valley",
+    "label": "Maule Valley"
+  },
+  {
+    "value": "mavrodaphne de cephalonie",
+    "label": "Mavrodaphne de Cephalonie"
+  },
+  {
+    "value": "mavrodaphne of patras",
+    "label": "Mavrodaphne of Patras"
+  },
+  {
+    "value": "mendoza province",
+    "label": "Mendoza Province"
+  },
+  {
+    "value": "messinia",
+    "label": "Messinia"
+  },
+  {
+    "value": "michigan",
+    "label": "Michigan"
+  },
+  {
+    "value": "middle and south dalmatia",
+    "label": "Middle and South Dalmatia"
+  },
+  {
+    "value": "minho",
+    "label": "Minho"
+  },
+  {
+    "value": "missouri",
+    "label": "Missouri"
+  },
+  {
+    "value": "mittelburgenland",
+    "label": "Mittelburgenland"
+  },
+  {
+    "value": "mittelrhein",
+    "label": "Mittelrhein"
+  },
+  {
+    "value": "moldova",
+    "label": "Moldova"
+  },
+  {
+    "value": "molina",
+    "label": "Molina"
+  },
+  {
+    "value": "monemvasia",
+    "label": "Monemvasia"
+  },
+  {
+    "value": "montevideo",
+    "label": "Montevideo"
+  },
+  {
+    "value": "moravia",
+    "label": "Moravia"
+  },
+  {
+    "value": "morocco",
+    "label": "Morocco"
+  },
+  {
+    "value": "moscatel do douro",
+    "label": "Moscatel do Douro"
+  },
+  {
+    "value": "mosel",
+    "label": "Mosel"
+  },
+  {
+    "value": "mosel-saar-ruwer",
+    "label": "Mosel-Saar-Ruwer"
+  },
+  {
+    "value": "moselle luxembourgeoise",
+    "label": "Moselle Luxembourgeoise"
+  },
+  {
+    "value": "mostar",
+    "label": "Mostar"
+  },
+  {
+    "value": "mount athos",
+    "label": "Mount Athos"
+  },
+  {
+    "value": "murfatlar",
+    "label": "Murfatlar"
+  },
+  {
+    "value": "muscat of kefallonian",
+    "label": "Muscat of Kefallonian"
+  },
+  {
+    "value": "muscat of patras",
+    "label": "Muscat of Patras"
+  },
+  {
+    "value": "muzla",
+    "label": "Muzla"
+  },
+  {
+    "value": "nahe",
+    "label": "Nahe"
+  },
+  {
+    "value": "naoussa",
+    "label": "Naoussa"
+  },
+  {
+    "value": "nashik",
+    "label": "Nashik"
+  },
+  {
+    "value": "negev",
+    "label": "Negev"
+  },
+  {
+    "value": "negev hills",
+    "label": "Negev Hills"
+  },
+  {
+    "value": "nelson",
+    "label": "Nelson"
+  },
+  {
+    "value": "nemea",
+    "label": "Nemea"
+  },
+  {
+    "value": "neusiedlersee",
+    "label": "Neusiedlersee"
+  },
+  {
+    "value": "nevada",
+    "label": "Nevada"
+  },
+  {
+    "value": "new jersey",
+    "label": "New Jersey"
+  },
+  {
+    "value": "new mexico",
+    "label": "New Mexico"
+  },
+  {
+    "value": "new south wales",
+    "label": "New South Wales"
+  },
+  {
+    "value": "new york",
+    "label": "New York"
+  },
+  {
+    "value": "new zealand",
+    "label": "New Zealand"
+  },
+  {
+    "value": "north carolina",
+    "label": "North Carolina"
+  },
+  {
+    "value": "north dalmatia",
+    "label": "North Dalmatia"
+  },
+  {
+    "value": "northeastern italy",
+    "label": "Northeastern Italy"
+  },
+  {
+    "value": "northern cape",
+    "label": "Northern Cape"
+  },
+  {
+    "value": "northern spain",
+    "label": "Northern Spain"
+  },
+  {
+    "value": "northwestern italy",
+    "label": "Northwestern Italy"
+  },
+  {
+    "value": "obidos",
+    "label": "Obidos"
+  },
+  {
+    "value": "ohio",
+    "label": "Ohio"
+  },
+  {
+    "value": "olifants river",
+    "label": "Olifants River"
+  },
+  {
+    "value": "ontario",
+    "label": "Ontario"
+  },
+  {
+    "value": "oregon",
+    "label": "Oregon"
+  },
+  {
+    "value": "other",
+    "label": "Other"
+  },
+  {
+    "value": "overberg",
+    "label": "Overberg"
+  },
+  {
+    "value": "paardeberg",
+    "label": "Paardeberg"
+  },
+  {
+    "value": "paarl",
+    "label": "Paarl"
+  },
+  {
+    "value": "pafos",
+    "label": "Pafos"
+  },
+  {
+    "value": "pageon",
+    "label": "Pageon"
+  },
+  {
+    "value": "palmela",
+    "label": "Palmela"
+  },
+  {
+    "value": "panciu",
+    "label": "Panciu"
+  },
+  {
+    "value": "pangeon",
+    "label": "Pangeon"
+  },
+  {
+    "value": "patras",
+    "label": "Patras"
+  },
+  {
+    "value": "peljesac",
+    "label": "Peljesac"
+  },
+  {
+    "value": "peloponnese",
+    "label": "Peloponnese"
+  },
+  {
+    "value": "pennsylvania",
+    "label": "Pennsylvania"
+  },
+  {
+    "value": "peumo",
+    "label": "Peumo"
+  },
+  {
+    "value": "pfalz",
+    "label": "Pfalz"
+  },
+  {
+    "value": "philadelphia",
+    "label": "Philadelphia"
+  },
+  {
+    "value": "piedmont",
+    "label": "Piedmont"
+  },
+  {
+    "value": "piekenierskloof",
+    "label": "Piekenierskloof"
+  },
+  {
+    "value": "pinto bandeira",
+    "label": "Pinto Bandeira"
+  },
+  {
+    "value": "pirque",
+    "label": "Pirque"
+  },
+  {
+    "value": "pitsilia mountains",
+    "label": "Pitsilia Mountains"
+  },
+  {
+    "value": "pocerina",
+    "label": "Pocerina"
+  },
+  {
+    "value": "podunavlje",
+    "label": "Podunavlje"
+  },
+  {
+    "value": "polkadraai hills",
+    "label": "Polkadraai Hills"
+  },
+  {
+    "value": "port",
+    "label": "Port"
+  },
+  {
+    "value": "portugal",
+    "label": "Portugal"
+  },
+  {
+    "value": "portuguese table wine",
+    "label": "Portuguese Table Wine"
+  },
+  {
+    "value": "primorska",
+    "label": "Primorska"
+  },
+  {
+    "value": "progreso",
+    "label": "Progreso"
+  },
+  {
+    "value": "provence",
+    "label": "Provence"
+  },
+  {
+    "value": "puente alto",
+    "label": "Puente Alto"
+  },
+  {
+    "value": "rapel valley",
+    "label": "Rapel Valley"
+  },
+  {
+    "value": "rapsani",
+    "label": "Rapsani"
+  },
+  {
+    "value": "recas",
+    "label": "Recas"
+  },
+  {
+    "value": "requinoa",
+    "label": "Requinoa"
+  },
+  {
+    "value": "retsina",
+    "label": "Retsina"
+  },
+  {
+    "value": "rheingau",
+    "label": "Rheingau"
+  },
+  {
+    "value": "rheinhessen",
+    "label": "Rheinhessen"
+  },
+  {
+    "value": "rhode island",
+    "label": "Rhode Island"
+  },
+  {
+    "value": "ribatejano",
+    "label": "Ribatejano"
+  },
+  {
+    "value": "ribatejo",
+    "label": "Ribatejo"
+  },
+  {
+    "value": "rio claro",
+    "label": "Rio Claro"
+  },
+  {
+    "value": "robertson",
+    "label": "Robertson"
+  },
+  {
+    "value": "romania",
+    "label": "Romania"
+  },
+  {
+    "value": "sagrada familia",
+    "label": "Sagrada Familia"
+  },
+  {
+    "value": "samos",
+    "label": "Samos"
+  },
+  {
+    "value": "samson",
+    "label": "Samson"
+  },
+  {
+    "value": "san antonio",
+    "label": "San Antonio"
+  },
+  {
+    "value": "san antonio de las minas valley",
+    "label": "San Antonio de las Minas Valley"
+  },
+  {
+    "value": "san clemente",
+    "label": "San Clemente"
+  },
+  {
+    "value": "san jose",
+    "label": "San Jose"
+  },
+  {
+    "value": "san vicente",
+    "label": "San Vicente"
+  },
+  {
+    "value": "santa catarina",
+    "label": "Santa Catarina"
+  },
+  {
+    "value": "santa cruz",
+    "label": "Santa Cruz"
+  },
+  {
+    "value": "santorini",
+    "label": "Santorini"
+  },
+  {
+    "value": "sebes",
+    "label": "Sebes"
+  },
+  {
+    "value": "serra do sudeste",
+    "label": "Serra do Sudeste"
+  },
+  {
+    "value": "setubal",
+    "label": "Setubal"
+  },
+  {
+    "value": "shomron",
+    "label": "Shomron"
+  },
+  {
+    "value": "simonsberg-paarl",
+    "label": "Simonsberg-Paarl"
+  },
+  {
+    "value": "simonsberg-stellenbosch",
+    "label": "Simonsberg-Stellenbosch"
+  },
+  {
+    "value": "sithonia",
+    "label": "Sithonia"
+  },
+  {
+    "value": "slovenia",
+    "label": "Slovenia"
+  },
+  {
+    "value": "slovenska istra",
+    "label": "Slovenska Istra"
+  },
+  {
+    "value": "sopron",
+    "label": "Sopron"
+  },
+  {
+    "value": "south africa",
+    "label": "South Africa"
+  },
+  {
+    "value": "south australia",
+    "label": "South Australia"
+  },
+  {
+    "value": "south island",
+    "label": "South Island"
+  },
+  {
+    "value": "southern italy",
+    "label": "Southern Italy"
+  },
+  {
+    "value": "southwest france",
+    "label": "Southwest France"
+  },
+  {
+    "value": "spain other",
+    "label": "Spain Other"
+  },
+  {
+    "value": "spanish islands",
+    "label": "Spanish Islands"
+  },
+  {
+    "value": "steiermark",
+    "label": "Steiermark"
+  },
+  {
+    "value": "stellenbosch",
+    "label": "Stellenbosch"
+  },
+  {
+    "value": "sterea ellada",
+    "label": "Sterea Ellada"
+  },
+  {
+    "value": "swartland",
+    "label": "Swartland"
+  },
+  {
+    "value": "switzerland",
+    "label": "Switzerland"
+  },
+  {
+    "value": "table wine",
+    "label": "Table wine"
+  },
+  {
+    "value": "tarnave",
+    "label": "Tarnave"
+  },
+  {
+    "value": "tasmania",
+    "label": "Tasmania"
+  },
+  {
+    "value": "tejo",
+    "label": "Tejo"
+  },
+  {
+    "value": "terras do sado",
+    "label": "Terras do Sado"
+  },
+  {
+    "value": "texas",
+    "label": "Texas"
+  },
+  {
+    "value": "thermenregion",
+    "label": "Thermenregion"
+  },
+  {
+    "value": "thessalikos",
+    "label": "Thessalikos"
+  },
+  {
+    "value": "thrace",
+    "label": "Thrace"
+  },
+  {
+    "value": "thracian valley",
+    "label": "Thracian Valley"
+  },
+  {
+    "value": "thraki",
+    "label": "Thraki"
+  },
+  {
+    "value": "ticino",
+    "label": "Ticino"
+  },
+  {
+    "value": "tikves",
+    "label": "Tikves"
+  },
+  {
+    "value": "tokaj",
+    "label": "Tokaj"
+  },
+  {
+    "value": "tokaji",
+    "label": "Tokaji"
+  },
+  {
+    "value": "traisental",
+    "label": "Traisental"
+  },
+  {
+    "value": "tulbagh",
+    "label": "Tulbagh"
+  },
+  {
+    "value": "turkey",
+    "label": "Turkey"
+  },
+  {
+    "value": "tuscany",
+    "label": "Tuscany"
+  },
+  {
+    "value": "ukraine",
+    "label": "Ukraine"
+  },
+  {
+    "value": "upper galilee",
+    "label": "Upper Galilee"
+  },
+  {
+    "value": "urla-thrace",
+    "label": "Urla-Thrace"
+  },
+  {
+    "value": "uruguay",
+    "label": "Uruguay"
+  },
+  {
+    "value": "valais",
+    "label": "Valais"
+  },
+  {
+    "value": "vale trentino",
+    "label": "Vale Trentino"
+  },
+  {
+    "value": "vale dos vinhedos",
+    "label": "Vale dos Vinhedos"
+  },
+  {
+    "value": "valle de guadalupe",
+    "label": "Valle de Guadalupe"
+  },
+  {
+    "value": "veneto",
+    "label": "Veneto"
+  },
+  {
+    "value": "vermont",
+    "label": "Vermont"
+  },
+  {
+    "value": "victoria",
+    "label": "Victoria"
+  },
+  {
+    "value": "vienna",
+    "label": "Vienna"
+  },
+  {
+    "value": "viile timis",
+    "label": "Viile Timis"
+  },
+  {
+    "value": "viile timisului",
+    "label": "Viile Timisului"
+  },
+  {
+    "value": "vin de pays de velvendo",
+    "label": "Vin de Pays de Velvendo"
+  },
+  {
+    "value": "vinho espumante",
+    "label": "Vinho Espumante"
+  },
+  {
+    "value": "vinho espumante de qualidade",
+    "label": "Vinho Espumante de Qualidade"
+  },
+  {
+    "value": "vinho licoroso",
+    "label": "Vinho Licoroso"
+  },
+  {
+    "value": "vinho verde",
+    "label": "Vinho Verde"
+  },
+  {
+    "value": "vinho da mesa",
+    "label": "Vinho da Mesa"
+  },
+  {
+    "value": "vipavska dolina",
+    "label": "Vipavska Dolina"
+  },
+  {
+    "value": "virginia",
+    "label": "Virginia"
+  },
+  {
+    "value": "vlootenburg",
+    "label": "Vlootenburg"
+  },
+  {
+    "value": "wachau",
+    "label": "Wachau"
+  },
+  {
+    "value": "wagram",
+    "label": "Wagram"
+  },
+  {
+    "value": "wagram-donauland",
+    "label": "Wagram-Donauland"
+  },
+  {
+    "value": "waiheke island",
+    "label": "Waiheke Island"
+  },
+  {
+    "value": "waipara",
+    "label": "Waipara"
+  },
+  {
+    "value": "waipara valley",
+    "label": "Waipara Valley"
+  },
+  {
+    "value": "wairarapa",
+    "label": "Wairarapa"
+  },
+  {
+    "value": "wairau valley",
+    "label": "Wairau Valley"
+  },
+  {
+    "value": "waitaki valley",
+    "label": "Waitaki Valley"
+  },
+  {
+    "value": "walker bay",
+    "label": "Walker Bay"
+  },
+  {
+    "value": "washington",
+    "label": "Washington"
+  },
+  {
+    "value": "washington-oregon",
+    "label": "Washington-Oregon"
+  },
+  {
+    "value": "weinviertel",
+    "label": "Weinviertel"
+  },
+  {
+    "value": "wellington",
+    "label": "Wellington"
+  },
+  {
+    "value": "western australia",
+    "label": "Western Australia"
+  },
+  {
+    "value": "western cape",
+    "label": "Western Cape"
+  },
+  {
+    "value": "wiener gemischter satz",
+    "label": "Wiener Gemischter Satz"
+  },
+  {
+    "value": "zenata",
+    "label": "Zenata"
+  }
+]

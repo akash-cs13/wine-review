@@ -1,0 +1,2502 @@
+[
+  {
+    "value": "pinot noir",
+    "label": "Pinot Noir"
+  },
+  {
+    "value": "chardonnay",
+    "label": "Chardonnay"
+  },
+  {
+    "value": "cabernet sauvignon",
+    "label": "Cabernet Sauvignon"
+  },
+  {
+    "value": "red blend",
+    "label": "Red Blend"
+  },
+  {
+    "value": "bordeaux-style red blend",
+    "label": "Bordeaux-style Red Blend"
+  },
+  {
+    "value": "riesling",
+    "label": "Riesling"
+  },
+  {
+    "value": "sauvignon blanc",
+    "label": "Sauvignon Blanc"
+  },
+  {
+    "value": "syrah",
+    "label": "Syrah"
+  },
+  {
+    "value": "merlot",
+    "label": "Merlot"
+  },
+  {
+    "value": "nebbiolo",
+    "label": "Nebbiolo"
+  },
+  {
+    "value": "zinfandel",
+    "label": "Zinfandel"
+  },
+  {
+    "value": "sangiovese",
+    "label": "Sangiovese"
+  },
+  {
+    "value": "malbec",
+    "label": "Malbec"
+  },
+  {
+    "value": "portuguese red",
+    "label": "Portuguese Red"
+  },
+  {
+    "value": "white blend",
+    "label": "White Blend"
+  },
+  {
+    "value": "sparkling blend",
+    "label": "Sparkling Blend"
+  },
+  {
+    "value": "tempranillo",
+    "label": "Tempranillo"
+  },
+  {
+    "value": "pinot gris",
+    "label": "Pinot Gris"
+  },
+  {
+    "value": "champagne blend",
+    "label": "Champagne Blend"
+  },
+  {
+    "value": "cabernet franc",
+    "label": "Cabernet Franc"
+  },
+  {
+    "value": "portuguese white",
+    "label": "Portuguese White"
+  },
+  {
+    "value": "bordeaux-style white blend",
+    "label": "Bordeaux-style White Blend"
+  },
+  {
+    "value": "pinot grigio",
+    "label": "Pinot Grigio"
+  },
+  {
+    "value": "gamay",
+    "label": "Gamay"
+  },
+  {
+    "value": "viognier",
+    "label": "Viognier"
+  },
+  {
+    "value": "shiraz",
+    "label": "Shiraz"
+  },
+  {
+    "value": "petite sirah",
+    "label": "Petite Sirah"
+  },
+  {
+    "value": "sangiovese grosso",
+    "label": "Sangiovese Grosso"
+  },
+  {
+    "value": "glera",
+    "label": "Glera"
+  },
+  {
+    "value": "barbera",
+    "label": "Barbera"
+  },
+  {
+    "value": "port",
+    "label": "Port"
+  },
+  {
+    "value": "grenache",
+    "label": "Grenache"
+  },
+  {
+    "value": "tempranillo blend",
+    "label": "Tempranillo Blend"
+  },
+  {
+    "value": "chenin blanc",
+    "label": "Chenin Blanc"
+  },
+  {
+    "value": "pinot blanc",
+    "label": "Pinot Blanc"
+  },
+  {
+    "value": "aglianico",
+    "label": "Aglianico"
+  },
+  {
+    "value": "moscato",
+    "label": "Moscato"
+  },
+  {
+    "value": "garnacha",
+    "label": "Garnacha"
+  },
+  {
+    "value": "sauvignon",
+    "label": "Sauvignon"
+  },
+  {
+    "value": "verdejo",
+    "label": "Verdejo"
+  },
+  {
+    "value": "melon",
+    "label": "Melon"
+  },
+  {
+    "value": "petit verdot",
+    "label": "Petit Verdot"
+  },
+  {
+    "value": "garganega",
+    "label": "Garganega"
+  },
+  {
+    "value": "meritage",
+    "label": "Meritage"
+  },
+  {
+    "value": "prosecco",
+    "label": "Prosecco"
+  },
+  {
+    "value": "primitivo",
+    "label": "Primitivo"
+  },
+  {
+    "value": "vermentino",
+    "label": "Vermentino"
+  },
+  {
+    "value": "montepulciano",
+    "label": "Montepulciano"
+  },
+  {
+    "value": "zweigelt",
+    "label": "Zweigelt"
+  },
+  {
+    "value": "touriga nacional",
+    "label": "Touriga Nacional"
+  },
+  {
+    "value": "g-s-m",
+    "label": "G-S-M"
+  },
+  {
+    "value": "dolcetto",
+    "label": "Dolcetto"
+  },
+  {
+    "value": "tannat",
+    "label": "Tannat"
+  },
+  {
+    "value": "pinot nero",
+    "label": "Pinot Nero"
+  },
+  {
+    "value": "tinta de toro",
+    "label": "Tinta de Toro"
+  },
+  {
+    "value": "roussanne",
+    "label": "Roussanne"
+  },
+  {
+    "value": "verdicchio",
+    "label": "Verdicchio"
+  },
+  {
+    "value": "pinot bianco",
+    "label": "Pinot Bianco"
+  },
+  {
+    "value": "fiano",
+    "label": "Fiano"
+  },
+  {
+    "value": "turbiana",
+    "label": "Turbiana"
+  },
+  {
+    "value": "monastrell",
+    "label": "Monastrell"
+  },
+  {
+    "value": "muscat",
+    "label": "Muscat"
+  },
+  {
+    "value": "pinotage",
+    "label": "Pinotage"
+  },
+  {
+    "value": "vernaccia",
+    "label": "Vernaccia"
+  },
+  {
+    "value": "alvarinho",
+    "label": "Alvarinho"
+  },
+  {
+    "value": "grenache blanc",
+    "label": "Grenache Blanc"
+  },
+  {
+    "value": "grillo",
+    "label": "Grillo"
+  },
+  {
+    "value": "cabernet sauvignon-merlot",
+    "label": "Cabernet Sauvignon-Merlot"
+  },
+  {
+    "value": "friulano",
+    "label": "Friulano"
+  },
+  {
+    "value": "nerello mascalese",
+    "label": "Nerello Mascalese"
+  },
+  {
+    "value": "greco",
+    "label": "Greco"
+  },
+  {
+    "value": "viura",
+    "label": "Viura"
+  },
+  {
+    "value": "sagrantino",
+    "label": "Sagrantino"
+  },
+  {
+    "value": "bonarda",
+    "label": "Bonarda"
+  },
+  {
+    "value": "cabernet sauvignon-syrah",
+    "label": "Cabernet Sauvignon-Syrah"
+  },
+  {
+    "value": "rosato",
+    "label": "Rosato"
+  },
+  {
+    "value": "tinto fino",
+    "label": "Tinto Fino"
+  },
+  {
+    "value": "sherry",
+    "label": "Sherry"
+  },
+  {
+    "value": "malbec-merlot",
+    "label": "Malbec-Merlot"
+  },
+  {
+    "value": "falanghina",
+    "label": "Falanghina"
+  },
+  {
+    "value": "arneis",
+    "label": "Arneis"
+  },
+  {
+    "value": "godello",
+    "label": "Godello"
+  },
+  {
+    "value": "cabernet blend",
+    "label": "Cabernet Blend"
+  },
+  {
+    "value": "negroamaro",
+    "label": "Negroamaro"
+  },
+  {
+    "value": "ribolla gialla",
+    "label": "Ribolla Gialla"
+  },
+  {
+    "value": "rosado",
+    "label": "Rosado"
+  },
+  {
+    "value": "austrian white blend",
+    "label": "Austrian white blend"
+  },
+  {
+    "value": "lagrein",
+    "label": "Lagrein"
+  },
+  {
+    "value": "arinto",
+    "label": "Arinto"
+  },
+  {
+    "value": "carignan",
+    "label": "Carignan"
+  },
+  {
+    "value": "sauvignon blanc-semillon",
+    "label": "Sauvignon Blanc-Semillon"
+  },
+  {
+    "value": "cortese",
+    "label": "Cortese"
+  },
+  {
+    "value": "marsanne",
+    "label": "Marsanne"
+  },
+  {
+    "value": "portuguese sparkling",
+    "label": "Portuguese Sparkling"
+  },
+  {
+    "value": "austrian red blend",
+    "label": "Austrian Red Blend"
+  },
+  {
+    "value": "verdelho",
+    "label": "Verdelho"
+  },
+  {
+    "value": "agiorgitiko",
+    "label": "Agiorgitiko"
+  },
+  {
+    "value": "moscatel",
+    "label": "Moscatel"
+  },
+  {
+    "value": "petit manseng",
+    "label": "Petit Manseng"
+  },
+  {
+    "value": "malbec-cabernet sauvignon",
+    "label": "Malbec-Cabernet Sauvignon"
+  },
+  {
+    "value": "provence red blend",
+    "label": "Provence red blend"
+  },
+  {
+    "value": "syrah-grenache",
+    "label": "Syrah-Grenache"
+  },
+  {
+    "value": "semillon-sauvignon blanc",
+    "label": "Semillon-Sauvignon Blanc"
+  },
+  {
+    "value": "vidal blanc",
+    "label": "Vidal Blanc"
+  },
+  {
+    "value": "trebbiano",
+    "label": "Trebbiano"
+  },
+  {
+    "value": "grenache-syrah",
+    "label": "Grenache-Syrah"
+  },
+  {
+    "value": "alsace white blend",
+    "label": "Alsace white blend"
+  },
+  {
+    "value": "tempranillo-cabernet sauvignon",
+    "label": "Tempranillo-Cabernet Sauvignon"
+  },
+  {
+    "value": "alicante bouschet",
+    "label": "Alicante Bouschet"
+  },
+  {
+    "value": "lambrusco",
+    "label": "Lambrusco"
+  },
+  {
+    "value": "sylvaner",
+    "label": "Sylvaner"
+  },
+  {
+    "value": "gros and petit manseng",
+    "label": "Gros and Petit Manseng"
+  },
+  {
+    "value": "pecorino",
+    "label": "Pecorino"
+  },
+  {
+    "value": "furmint",
+    "label": "Furmint"
+  },
+  {
+    "value": "weissburgunder",
+    "label": "Weissburgunder"
+  },
+  {
+    "value": "malvasia",
+    "label": "Malvasia"
+  },
+  {
+    "value": "prugnolo gentile",
+    "label": "Prugnolo Gentile"
+  },
+  {
+    "value": "pinot meunier",
+    "label": "Pinot Meunier"
+  },
+  {
+    "value": "graciano",
+    "label": "Graciano"
+  },
+  {
+    "value": "assyrtico",
+    "label": "Assyrtico"
+  },
+  {
+    "value": "shiraz-viognier",
+    "label": "Shiraz-Viognier"
+  },
+  {
+    "value": "frappato",
+    "label": "Frappato"
+  },
+  {
+    "value": "cinsault",
+    "label": "Cinsault"
+  },
+  {
+    "value": "shiraz-cabernet sauvignon",
+    "label": "Shiraz-Cabernet Sauvignon"
+  },
+  {
+    "value": "traminer",
+    "label": "Traminer"
+  },
+  {
+    "value": "silvaner",
+    "label": "Silvaner"
+  },
+  {
+    "value": "encruzado",
+    "label": "Encruzado"
+  },
+  {
+    "value": "carricante",
+    "label": "Carricante"
+  },
+  {
+    "value": "muscat canelli",
+    "label": "Muscat Canelli"
+  },
+  {
+    "value": "lemberger",
+    "label": "Lemberger"
+  },
+  {
+    "value": "merlot-cabernet sauvignon",
+    "label": "Merlot-Cabernet Sauvignon"
+  },
+  {
+    "value": "claret",
+    "label": "Claret"
+  },
+  {
+    "value": "moschofilero",
+    "label": "Moschofilero"
+  },
+  {
+    "value": "garnacha blanca",
+    "label": "Garnacha Blanca"
+  },
+  {
+    "value": "saperavi",
+    "label": "Saperavi"
+  },
+  {
+    "value": "syrah-cabernet sauvignon",
+    "label": "Syrah-Cabernet Sauvignon"
+  },
+  {
+    "value": "chardonnay-viognier",
+    "label": "Chardonnay-Viognier"
+  },
+  {
+    "value": "gelber muskateller",
+    "label": "Gelber Muskateller"
+  },
+  {
+    "value": "chenin blanc-chardonnay",
+    "label": "Chenin Blanc-Chardonnay"
+  },
+  {
+    "value": "rkatsiteli",
+    "label": "Rkatsiteli"
+  },
+  {
+    "value": "tempranillo-garnacha",
+    "label": "Tempranillo-Garnacha"
+  },
+  {
+    "value": "xinomavro",
+    "label": "Xinomavro"
+  },
+  {
+    "value": "provence white blend",
+    "label": "Provence white blend"
+  },
+  {
+    "value": "zibibbo",
+    "label": "Zibibbo"
+  },
+  {
+    "value": "teroldego",
+    "label": "Teroldego"
+  },
+  {
+    "value": "tannat-cabernet",
+    "label": "Tannat-Cabernet"
+  },
+  {
+    "value": "loureiro",
+    "label": "Loureiro"
+  },
+  {
+    "value": "cannonau",
+    "label": "Cannonau"
+  },
+  {
+    "value": "inzolia",
+    "label": "Inzolia"
+  },
+  {
+    "value": "carignane",
+    "label": "Carignane"
+  },
+  {
+    "value": "catarratto",
+    "label": "Catarratto"
+  },
+  {
+    "value": "insolia",
+    "label": "Insolia"
+  },
+  {
+    "value": "touriga nacional-cabernet sauvignon",
+    "label": "Touriga Nacional-Cabernet Sauvignon"
+  },
+  {
+    "value": "petite verdot",
+    "label": "Petite Verdot"
+  },
+  {
+    "value": "picolit",
+    "label": "Picolit"
+  },
+  {
+    "value": "baga",
+    "label": "Baga"
+  },
+  {
+    "value": "dornfelder",
+    "label": "Dornfelder"
+  },
+  {
+    "value": "auxerrois",
+    "label": "Auxerrois"
+  },
+  {
+    "value": "cabernet sauvignon-shiraz",
+    "label": "Cabernet Sauvignon-Shiraz"
+  },
+  {
+    "value": "kerner",
+    "label": "Kerner"
+  },
+  {
+    "value": "scheurebe",
+    "label": "Scheurebe"
+  },
+  {
+    "value": "tokaji",
+    "label": "Tokaji"
+  },
+  {
+    "value": "charbono",
+    "label": "Charbono"
+  },
+  {
+    "value": "welschriesling",
+    "label": "Welschriesling"
+  },
+  {
+    "value": "trincadeira",
+    "label": "Trincadeira"
+  },
+  {
+    "value": "colombard",
+    "label": "Colombard"
+  },
+  {
+    "value": "merlot-cabernet franc",
+    "label": "Merlot-Cabernet Franc"
+  },
+  {
+    "value": "macabeo",
+    "label": "Macabeo"
+  },
+  {
+    "value": "gros manseng",
+    "label": "Gros Manseng"
+  },
+  {
+    "value": "marsanne-roussanne",
+    "label": "Marsanne-Roussanne"
+  },
+  {
+    "value": "muskat ottonel",
+    "label": "Muskat Ottonel"
+  },
+  {
+    "value": "cabernet merlot",
+    "label": "Cabernet Merlot"
+  },
+  {
+    "value": "albana",
+    "label": "Albana"
+  },
+  {
+    "value": "gamay noir",
+    "label": "Gamay Noir"
+  },
+  {
+    "value": "rotgipfler",
+    "label": "Rotgipfler"
+  },
+  {
+    "value": "savagnin",
+    "label": "Savagnin"
+  },
+  {
+    "value": "bobal",
+    "label": "Bobal"
+  },
+  {
+    "value": "passerina",
+    "label": "Passerina"
+  },
+  {
+    "value": "schiava",
+    "label": "Schiava"
+  },
+  {
+    "value": "cabernet sauvignon-cabernet franc",
+    "label": "Cabernet Sauvignon-Cabernet Franc"
+  },
+  {
+    "value": "corvina",
+    "label": "Corvina"
+  },
+  {
+    "value": "tocai friulano",
+    "label": "Tocai Friulano"
+  },
+  {
+    "value": "piedirosso",
+    "label": "Piedirosso"
+  },
+  {
+    "value": "monastrell-syrah",
+    "label": "Monastrell-Syrah"
+  },
+  {
+    "value": "xarel-lo",
+    "label": "Xarel-lo"
+  },
+  {
+    "value": "verdejo-viura",
+    "label": "Verdejo-Viura"
+  },
+  {
+    "value": "touriga nacional blend",
+    "label": "Touriga Nacional Blend"
+  },
+  {
+    "value": "orange muscat",
+    "label": "Orange Muscat"
+  },
+  {
+    "value": "lambrusco di sorbara",
+    "label": "Lambrusco di Sorbara"
+  },
+  {
+    "value": "lambrusco grasparossa",
+    "label": "Lambrusco Grasparossa"
+  },
+  {
+    "value": "cabernet franc-merlot",
+    "label": "Cabernet Franc-Merlot"
+  },
+  {
+    "value": "malbec-syrah",
+    "label": "Malbec-Syrah"
+  },
+  {
+    "value": "chambourcin",
+    "label": "Chambourcin"
+  },
+  {
+    "value": "pinot noir-gamay",
+    "label": "Pinot Noir-Gamay"
+  },
+  {
+    "value": "coda di volpe",
+    "label": "Coda di Volpe"
+  },
+  {
+    "value": "colombard-sauvignon blanc",
+    "label": "Colombard-Sauvignon Blanc"
+  },
+  {
+    "value": "cabernet sauvignon-malbec",
+    "label": "Cabernet Sauvignon-Malbec"
+  },
+  {
+    "value": "palomino",
+    "label": "Palomino"
+  },
+  {
+    "value": "picpoul",
+    "label": "Picpoul"
+  },
+  {
+    "value": "grenache-carignan",
+    "label": "Grenache-Carignan"
+  },
+  {
+    "value": "norton",
+    "label": "Norton"
+  },
+  {
+    "value": "tinto del pais",
+    "label": "Tinto del Pais"
+  },
+  {
+    "value": "malvasia bianca",
+    "label": "Malvasia Bianca"
+  },
+  {
+    "value": "cabernet franc-cabernet sauvignon",
+    "label": "Cabernet Franc-Cabernet Sauvignon"
+  },
+  {
+    "value": "negrette",
+    "label": "Negrette"
+  },
+  {
+    "value": "moscato giallo",
+    "label": "Moscato Giallo"
+  },
+  {
+    "value": "plavac mali",
+    "label": "Plavac Mali"
+  },
+  {
+    "value": "hondarrabi zuri",
+    "label": "Hondarrabi Zuri"
+  },
+  {
+    "value": "nero di troia",
+    "label": "Nero di Troia"
+  },
+  {
+    "value": "seyval blanc",
+    "label": "Seyval Blanc"
+  },
+  {
+    "value": "assyrtiko",
+    "label": "Assyrtiko"
+  },
+  {
+    "value": "syrah-petite sirah",
+    "label": "Syrah-Petite Sirah"
+  },
+  {
+    "value": "mondeuse",
+    "label": "Mondeuse"
+  },
+  {
+    "value": "syrah-cabernet",
+    "label": "Syrah-Cabernet"
+  },
+  {
+    "value": "baco noir",
+    "label": "Baco Noir"
+  },
+  {
+    "value": "syrah-viognier",
+    "label": "Syrah-Viognier"
+  },
+  {
+    "value": "brachetto",
+    "label": "Brachetto"
+  },
+  {
+    "value": "prieto picudo",
+    "label": "Prieto Picudo"
+  },
+  {
+    "value": "alfrocheiro",
+    "label": "Alfrocheiro"
+  },
+  {
+    "value": "tannat-cabernet franc",
+    "label": "Tannat-Cabernet Franc"
+  },
+  {
+    "value": "sauvignon gris",
+    "label": "Sauvignon Gris"
+  },
+  {
+    "value": "zierfandler",
+    "label": "Zierfandler"
+  },
+  {
+    "value": "shiraz-grenache",
+    "label": "Shiraz-Grenache"
+  },
+  {
+    "value": "grechetto",
+    "label": "Grechetto"
+  },
+  {
+    "value": "viura-chardonnay",
+    "label": "Viura-Chardonnay"
+  },
+  {
+    "value": "white riesling",
+    "label": "White Riesling"
+  },
+  {
+    "value": "bical",
+    "label": "Bical"
+  },
+  {
+    "value": "pansa blanca",
+    "label": "Pansa Blanca"
+  },
+  {
+    "value": "kalecik karasi",
+    "label": "Kalecik Karasi"
+  },
+  {
+    "value": "malbec-tannat",
+    "label": "Malbec-Tannat"
+  },
+  {
+    "value": "gaglioppo",
+    "label": "Gaglioppo"
+  },
+  {
+    "value": "carignano",
+    "label": "Carignano"
+  },
+  {
+    "value": "raboso",
+    "label": "Raboso"
+  },
+  {
+    "value": "viognier-chardonnay",
+    "label": "Viognier-Chardonnay"
+  },
+  {
+    "value": "grauburgunder",
+    "label": "Grauburgunder"
+  },
+  {
+    "value": "muscat blanc",
+    "label": "Muscat Blanc"
+  },
+  {
+    "value": "garnacha-syrah",
+    "label": "Garnacha-Syrah"
+  },
+  {
+    "value": "cabernet-syrah",
+    "label": "Cabernet-Syrah"
+  },
+  {
+    "value": "cabernet sauvignon-tempranillo",
+    "label": "Cabernet Sauvignon-Tempranillo"
+  },
+  {
+    "value": "pinot auxerrois",
+    "label": "Pinot Auxerrois"
+  },
+  {
+    "value": "tannat-merlot",
+    "label": "Tannat-Merlot"
+  },
+  {
+    "value": "roter veltliner",
+    "label": "Roter Veltliner"
+  },
+  {
+    "value": "tinta roriz",
+    "label": "Tinta Roriz"
+  },
+  {
+    "value": "roussanne-viognier",
+    "label": "Roussanne-Viognier"
+  },
+  {
+    "value": "malbec-cabernet franc",
+    "label": "Malbec-Cabernet Franc"
+  },
+  {
+    "value": "chenin blanc-viognier",
+    "label": "Chenin Blanc-Viognier"
+  },
+  {
+    "value": "counoise",
+    "label": "Counoise"
+  },
+  {
+    "value": "siria",
+    "label": "Siria"
+  },
+  {
+    "value": "uva di troia",
+    "label": "Uva di Troia"
+  },
+  {
+    "value": "merlot-cabernet",
+    "label": "Merlot-Cabernet"
+  },
+  {
+    "value": "cabernet",
+    "label": "Cabernet"
+  },
+  {
+    "value": "mataro",
+    "label": "Mataro"
+  },
+  {
+    "value": "muscadelle",
+    "label": "Muscadelle"
+  },
+  {
+    "value": "tocai",
+    "label": "Tocai"
+  },
+  {
+    "value": "refosco",
+    "label": "Refosco"
+  },
+  {
+    "value": "vignoles",
+    "label": "Vignoles"
+  },
+  {
+    "value": "tinta fina",
+    "label": "Tinta Fina"
+  },
+  {
+    "value": "vidal",
+    "label": "Vidal"
+  },
+  {
+    "value": "black muscat",
+    "label": "Black Muscat"
+  },
+  {
+    "value": "traminette",
+    "label": "Traminette"
+  },
+  {
+    "value": "perricone",
+    "label": "Perricone"
+  },
+  {
+    "value": "tempranillo blanco",
+    "label": "Tempranillo Blanco"
+  },
+  {
+    "value": "aragonez",
+    "label": "Aragonez"
+  },
+  {
+    "value": "malagousia",
+    "label": "Malagousia"
+  },
+  {
+    "value": "kekfrankos",
+    "label": "Kekfrankos"
+  },
+  {
+    "value": "ugni blanc-colombard",
+    "label": "Ugni Blanc-Colombard"
+  },
+  {
+    "value": "johannisberg riesling",
+    "label": "Johannisberg Riesling"
+  },
+  {
+    "value": "grenache blend",
+    "label": "Grenache Blend"
+  },
+  {
+    "value": "trepat",
+    "label": "Trepat"
+  },
+  {
+    "value": "pallagrello",
+    "label": "Pallagrello"
+  },
+  {
+    "value": "neuburger",
+    "label": "Neuburger"
+  },
+  {
+    "value": "sauvignon blanc-chardonnay",
+    "label": "Sauvignon Blanc-Chardonnay"
+  },
+  {
+    "value": "chasselas",
+    "label": "Chasselas"
+  },
+  {
+    "value": "carignan-grenache",
+    "label": "Carignan-Grenache"
+  },
+  {
+    "value": "durella",
+    "label": "Durella"
+  },
+  {
+    "value": "okuzgozu",
+    "label": "Okuzgozu"
+  },
+  {
+    "value": "garnacha tintorera",
+    "label": "Garnacha Tintorera"
+  },
+  {
+    "value": "grecanico",
+    "label": "Grecanico"
+  },
+  {
+    "value": "tempranillo-shiraz",
+    "label": "Tempranillo-Shiraz"
+  },
+  {
+    "value": "posip",
+    "label": "Posip"
+  },
+  {
+    "value": "jaen",
+    "label": "Jaen"
+  },
+  {
+    "value": "bual",
+    "label": "Bual"
+  },
+  {
+    "value": "duras",
+    "label": "Duras"
+  },
+  {
+    "value": "nosiola",
+    "label": "Nosiola"
+  },
+  {
+    "value": "manzoni",
+    "label": "Manzoni"
+  },
+  {
+    "value": "narince",
+    "label": "Narince"
+  },
+  {
+    "value": "tempranillo-merlot",
+    "label": "Tempranillo-Merlot"
+  },
+  {
+    "value": "cabernet sauvignon-sangiovese",
+    "label": "Cabernet Sauvignon-Sangiovese"
+  },
+  {
+    "value": "mavrud",
+    "label": "Mavrud"
+  },
+  {
+    "value": "syrah-tempranillo",
+    "label": "Syrah-Tempranillo"
+  },
+  {
+    "value": "mauzac",
+    "label": "Mauzac"
+  },
+  {
+    "value": "trebbiano spoletino",
+    "label": "Trebbiano Spoletino"
+  },
+  {
+    "value": "malvasia istriana",
+    "label": "Malvasia Istriana"
+  },
+  {
+    "value": "viognier-roussanne",
+    "label": "Viognier-Roussanne"
+  },
+  {
+    "value": "mantonico",
+    "label": "Mantonico"
+  },
+  {
+    "value": "teran",
+    "label": "Teran"
+  },
+  {
+    "value": "colombard-ugni blanc",
+    "label": "Colombard-Ugni Blanc"
+  },
+  {
+    "value": "susumaniello",
+    "label": "Susumaniello"
+  },
+  {
+    "value": "touriga franca",
+    "label": "Touriga Franca"
+  },
+  {
+    "value": "morillon",
+    "label": "Morillon"
+  },
+  {
+    "value": "moscatel roxo",
+    "label": "Moscatel Roxo"
+  },
+  {
+    "value": "chenin blanc-sauvignon blanc",
+    "label": "Chenin Blanc-Sauvignon Blanc"
+  },
+  {
+    "value": "tokay",
+    "label": "Tokay"
+  },
+  {
+    "value": "merlot-malbec",
+    "label": "Merlot-Malbec"
+  },
+  {
+    "value": "maturana",
+    "label": "Maturana"
+  },
+  {
+    "value": "trousseau",
+    "label": "Trousseau"
+  },
+  {
+    "value": "feteasca neagra",
+    "label": "Feteasca Neagra"
+  },
+  {
+    "value": "chardonnay-sauvignon",
+    "label": "Chardonnay-Sauvignon"
+  },
+  {
+    "value": "moscadello",
+    "label": "Moscadello"
+  },
+  {
+    "value": "nascetta",
+    "label": "Nascetta"
+  },
+  {
+    "value": "chardonnay-semillon",
+    "label": "Chardonnay-Semillon"
+  },
+  {
+    "value": "sangiovese-cabernet sauvignon",
+    "label": "Sangiovese-Cabernet Sauvignon"
+  },
+  {
+    "value": "blanc du bois",
+    "label": "Blanc du Bois"
+  },
+  {
+    "value": "avesso",
+    "label": "Avesso"
+  },
+  {
+    "value": "mission",
+    "label": "Mission"
+  },
+  {
+    "value": "syrah-merlot",
+    "label": "Syrah-Merlot"
+  },
+  {
+    "value": "altesse",
+    "label": "Altesse"
+  },
+  {
+    "value": "roussanne-marsanne",
+    "label": "Roussanne-Marsanne"
+  },
+  {
+    "value": "malbec-bonarda",
+    "label": "Malbec-Bonarda"
+  },
+  {
+    "value": "rieslaner",
+    "label": "Rieslaner"
+  },
+  {
+    "value": "braucol",
+    "label": "Braucol"
+  },
+  {
+    "value": "savatiano",
+    "label": "Savatiano"
+  },
+  {
+    "value": "verdejo-sauvignon blanc",
+    "label": "Verdejo-Sauvignon Blanc"
+  },
+  {
+    "value": "malvasia nera",
+    "label": "Malvasia Nera"
+  },
+  {
+    "value": "alvarinho-chardonnay",
+    "label": "Alvarinho-Chardonnay"
+  },
+  {
+    "value": "tannat-syrah",
+    "label": "Tannat-Syrah"
+  },
+  {
+    "value": "verdeca",
+    "label": "Verdeca"
+  },
+  {
+    "value": "garnacha-tempranillo",
+    "label": "Garnacha-Tempranillo"
+  },
+  {
+    "value": "roter traminer",
+    "label": "Roter Traminer"
+  },
+  {
+    "value": "verduzzo",
+    "label": "Verduzzo"
+  },
+  {
+    "value": "aleatico",
+    "label": "Aleatico"
+  },
+  {
+    "value": "semillon-chardonnay",
+    "label": "Semillon-Chardonnay"
+  },
+  {
+    "value": "mavrodaphne",
+    "label": "Mavrodaphne"
+  },
+  {
+    "value": "alicante",
+    "label": "Alicante"
+  },
+  {
+    "value": "greco bianco",
+    "label": "Greco Bianco"
+  },
+  {
+    "value": "kisi",
+    "label": "Kisi"
+  },
+  {
+    "value": "tinta barroca",
+    "label": "Tinta Barroca"
+  },
+  {
+    "value": "pinot-chardonnay",
+    "label": "Pinot-Chardonnay"
+  },
+  {
+    "value": "zierfandler-rotgipfler",
+    "label": "Zierfandler-Rotgipfler"
+  },
+  {
+    "value": "nerello cappuccio",
+    "label": "Nerello Cappuccio"
+  },
+  {
+    "value": "pallagrello bianco",
+    "label": "Pallagrello Bianco"
+  },
+  {
+    "value": "muskateller",
+    "label": "Muskateller"
+  },
+  {
+    "value": "veltliner",
+    "label": "Veltliner"
+  },
+  {
+    "value": "malagouzia",
+    "label": "Malagouzia"
+  },
+  {
+    "value": "robola",
+    "label": "Robola"
+  },
+  {
+    "value": "pinot blanc-chardonnay",
+    "label": "Pinot Blanc-Chardonnay"
+  },
+  {
+    "value": "syrah-carignan",
+    "label": "Syrah-Carignan"
+  },
+  {
+    "value": "rolle",
+    "label": "Rolle"
+  },
+  {
+    "value": "sauvignon blanc-verdejo",
+    "label": "Sauvignon Blanc-Verdejo"
+  },
+  {
+    "value": "roditis",
+    "label": "Roditis"
+  },
+  {
+    "value": "viosinho",
+    "label": "Viosinho"
+  },
+  {
+    "value": "macabeo-chardonnay",
+    "label": "Macabeo-Chardonnay"
+  },
+  {
+    "value": "pallagrello nero",
+    "label": "Pallagrello Nero"
+  },
+  {
+    "value": "sangiovese-syrah",
+    "label": "Sangiovese-Syrah"
+  },
+  {
+    "value": "vilana",
+    "label": "Vilana"
+  },
+  {
+    "value": "muscat hamburg",
+    "label": "Muscat Hamburg"
+  },
+  {
+    "value": "vranec",
+    "label": "Vranec"
+  },
+  {
+    "value": "mazuelo",
+    "label": "Mazuelo"
+  },
+  {
+    "value": "mansois",
+    "label": "Mansois"
+  },
+  {
+    "value": "sciaccerellu",
+    "label": "Sciaccerellu"
+  },
+  {
+    "value": "pignoletto",
+    "label": "Pignoletto"
+  },
+  {
+    "value": "marselan",
+    "label": "Marselan"
+  },
+  {
+    "value": "edelzwicker",
+    "label": "Edelzwicker"
+  },
+  {
+    "value": "symphony",
+    "label": "Symphony"
+  },
+  {
+    "value": "chardonnay-pinot blanc",
+    "label": "Chardonnay-Pinot Blanc"
+  },
+  {
+    "value": "mtsvane",
+    "label": "Mtsvane"
+  },
+  {
+    "value": "sauvignon blanc-chenin blanc",
+    "label": "Sauvignon Blanc-Chenin Blanc"
+  },
+  {
+    "value": "timorasso",
+    "label": "Timorasso"
+  },
+  {
+    "value": "chardonnay-sauvignon blanc",
+    "label": "Chardonnay-Sauvignon Blanc"
+  },
+  {
+    "value": "trebbiano di lugana",
+    "label": "Trebbiano di Lugana"
+  },
+  {
+    "value": "viognier-marsanne",
+    "label": "Viognier-Marsanne"
+  },
+  {
+    "value": "malbec blend",
+    "label": "Malbec Blend"
+  },
+  {
+    "value": "elbling",
+    "label": "Elbling"
+  },
+  {
+    "value": "bovale",
+    "label": "Bovale"
+  },
+  {
+    "value": "canaiolo",
+    "label": "Canaiolo"
+  },
+  {
+    "value": "jacquez",
+    "label": "Jacquez"
+  },
+  {
+    "value": "tinta francisca",
+    "label": "Tinta Francisca"
+  },
+  {
+    "value": "garnacha-monastrell",
+    "label": "Garnacha-Monastrell"
+  },
+  {
+    "value": "cerceal",
+    "label": "Cerceal"
+  },
+  {
+    "value": "pugnitello",
+    "label": "Pugnitello"
+  },
+  {
+    "value": "nielluciu",
+    "label": "Nielluciu"
+  },
+  {
+    "value": "pinot noir-syrah",
+    "label": "Pinot Noir-Syrah"
+  },
+  {
+    "value": "abouriou",
+    "label": "Abouriou"
+  },
+  {
+    "value": "muscat of alexandria",
+    "label": "Muscat of Alexandria"
+  },
+  {
+    "value": "airen",
+    "label": "Airen"
+  },
+  {
+    "value": "azal",
+    "label": "Azal"
+  },
+  {
+    "value": "syrah-cabernet franc",
+    "label": "Syrah-Cabernet Franc"
+  },
+  {
+    "value": "marzemino",
+    "label": "Marzemino"
+  },
+  {
+    "value": "clairette",
+    "label": "Clairette"
+  },
+  {
+    "value": "verduzzo friulano ",
+    "label": "Verduzzo Friulano "
+  },
+  {
+    "value": "shiraz-malbec",
+    "label": "Shiraz-Malbec"
+  },
+  {
+    "value": "rebula",
+    "label": "Rebula"
+  },
+  {
+    "value": "cabernet franc-malbec",
+    "label": "Cabernet Franc-Malbec"
+  },
+  {
+    "value": "malvasia-viura",
+    "label": "Malvasia-Viura"
+  },
+  {
+    "value": "romorantin",
+    "label": "Romorantin"
+  },
+  {
+    "value": "rivaner",
+    "label": "Rivaner"
+  },
+  {
+    "value": "incrocio manzoni",
+    "label": "Incrocio Manzoni"
+  },
+  {
+    "value": "magliocco",
+    "label": "Magliocco"
+  },
+  {
+    "value": "nuragus",
+    "label": "Nuragus"
+  },
+  {
+    "value": "casavecchia",
+    "label": "Casavecchia"
+  },
+  {
+    "value": "merlot-tannat",
+    "label": "Merlot-Tannat"
+  },
+  {
+    "value": "tinta del toro",
+    "label": "Tinta del Toro"
+  },
+  {
+    "value": "monica",
+    "label": "Monica"
+  },
+  {
+    "value": "vitovska",
+    "label": "Vitovska"
+  },
+  {
+    "value": "argaman",
+    "label": "Argaman"
+  },
+  {
+    "value": "sangiovese cabernet",
+    "label": "Sangiovese Cabernet"
+  },
+  {
+    "value": "muskat",
+    "label": "Muskat"
+  },
+  {
+    "value": "malbec-cabernet",
+    "label": "Malbec-Cabernet"
+  },
+  {
+    "value": "emir",
+    "label": "Emir"
+  },
+  {
+    "value": "viognier-grenache blanc",
+    "label": "Viognier-Grenache Blanc"
+  },
+  {
+    "value": "ciliegiolo",
+    "label": "Ciliegiolo"
+  },
+  {
+    "value": "asprinio",
+    "label": "Asprinio"
+  },
+  {
+    "value": "grenache noir",
+    "label": "Grenache Noir"
+  },
+  {
+    "value": "madeira blend",
+    "label": "Madeira Blend"
+  },
+  {
+    "value": "grenache-shiraz",
+    "label": "Grenache-Shiraz"
+  },
+  {
+    "value": "poulsard",
+    "label": "Poulsard"
+  },
+  {
+    "value": "ugni blanc",
+    "label": "Ugni Blanc"
+  },
+  {
+    "value": "cabernet franc-lemberger",
+    "label": "Cabernet Franc-Lemberger"
+  },
+  {
+    "value": "moscato rosa",
+    "label": "Moscato Rosa"
+  },
+  {
+    "value": "chelois",
+    "label": "Chelois"
+  },
+  {
+    "value": "blauer portugieser",
+    "label": "Blauer Portugieser"
+  },
+  {
+    "value": "rosenmuskateller",
+    "label": "Rosenmuskateller"
+  },
+  {
+    "value": "muscatel",
+    "label": "Muscatel"
+  },
+  {
+    "value": "cabernet sauvignon-merlot-shiraz",
+    "label": "Cabernet Sauvignon-Merlot-Shiraz"
+  },
+  {
+    "value": "cayuga",
+    "label": "Cayuga"
+  },
+  {
+    "value": "feteasca",
+    "label": "Feteasca"
+  },
+  {
+    "value": "baga-touriga nacional",
+    "label": "Baga-Touriga Nacional"
+  },
+  {
+    "value": "freisa",
+    "label": "Freisa"
+  },
+  {
+    "value": "fer servadou",
+    "label": "Fer Servadou"
+  },
+  {
+    "value": "vespolina",
+    "label": "Vespolina"
+  },
+  {
+    "value": "lambrusco salamino",
+    "label": "Lambrusco Salamino"
+  },
+  {
+    "value": "trousseau gris",
+    "label": "Trousseau Gris"
+  },
+  {
+    "value": "debit",
+    "label": "Debit"
+  },
+  {
+    "value": "viura-verdejo",
+    "label": "Viura-Verdejo"
+  },
+  {
+    "value": "treixadura",
+    "label": "Treixadura"
+  },
+  {
+    "value": "chinuri",
+    "label": "Chinuri"
+  },
+  {
+    "value": "rebo",
+    "label": "Rebo"
+  },
+  {
+    "value": "marquette",
+    "label": "Marquette"
+  },
+  {
+    "value": "bombino bianco",
+    "label": "Bombino Bianco"
+  },
+  {
+    "value": "xynisteri",
+    "label": "Xynisteri"
+  },
+  {
+    "value": "kadarka",
+    "label": "Kadarka"
+  },
+  {
+    "value": "malbec-petit verdot",
+    "label": "Malbec-Petit Verdot"
+  },
+  {
+    "value": "syrah-petit verdot",
+    "label": "Syrah-Petit Verdot"
+  },
+  {
+    "value": "madeleine angevine",
+    "label": "Madeleine Angevine"
+  },
+  {
+    "value": "touriga",
+    "label": "Touriga"
+  },
+  {
+    "value": "white port",
+    "label": "White Port"
+  },
+  {
+    "value": "rufete",
+    "label": "Rufete"
+  },
+  {
+    "value": "marawi",
+    "label": "Marawi"
+  },
+  {
+    "value": "tinta del pais",
+    "label": "Tinta del Pais"
+  },
+  {
+    "value": "sacy",
+    "label": "Sacy"
+  },
+  {
+    "value": "shiraz-cabernet",
+    "label": "Shiraz-Cabernet"
+  },
+  {
+    "value": "grignolino",
+    "label": "Grignolino"
+  },
+  {
+    "value": "plyto",
+    "label": "Plyto"
+  },
+  {
+    "value": "yapincak",
+    "label": "Yapincak"
+  },
+  {
+    "value": "ansonica",
+    "label": "Ansonica"
+  },
+  {
+    "value": "durif",
+    "label": "Durif"
+  },
+  {
+    "value": "apple",
+    "label": "Apple"
+  },
+  {
+    "value": "sirica",
+    "label": "Sirica"
+  },
+  {
+    "value": "carignan-syrah",
+    "label": "Carignan-Syrah"
+  },
+  {
+    "value": "gragnano",
+    "label": "Gragnano"
+  },
+  {
+    "value": "cabernet-shiraz",
+    "label": "Cabernet-Shiraz"
+  },
+  {
+    "value": "merlot-syrah",
+    "label": "Merlot-Syrah"
+  },
+  {
+    "value": "rabigato",
+    "label": "Rabigato"
+  },
+  {
+    "value": "morio muskat",
+    "label": "Morio Muskat"
+  },
+  {
+    "value": "cabernet pfeffer",
+    "label": "Cabernet Pfeffer"
+  },
+  {
+    "value": "roviello",
+    "label": "Roviello"
+  },
+  {
+    "value": "chardonnay weissburgunder",
+    "label": "Chardonnay Weissburgunder"
+  },
+  {
+    "value": "bastardo",
+    "label": "Bastardo"
+  },
+  {
+    "value": "garnacha blend",
+    "label": "Garnacha Blend"
+  },
+  {
+    "value": "muscadine",
+    "label": "Muscadine"
+  },
+  {
+    "value": "grolleau",
+    "label": "Grolleau"
+  },
+  {
+    "value": "chancellor",
+    "label": "Chancellor"
+  },
+  {
+    "value": "trollinger",
+    "label": "Trollinger"
+  },
+  {
+    "value": "shiraz-tempranillo",
+    "label": "Shiraz-Tempranillo"
+  },
+  {
+    "value": "monastrell-petit verdot",
+    "label": "Monastrell-Petit Verdot"
+  },
+  {
+    "value": "nasco",
+    "label": "Nasco"
+  },
+  {
+    "value": "malbec-tempranillo",
+    "label": "Malbec-Tempranillo"
+  },
+  {
+    "value": "cabernet sauvignon grenache",
+    "label": "Cabernet Sauvignon Grenache"
+  },
+  {
+    "value": "saperavi-merlot",
+    "label": "Saperavi-Merlot"
+  },
+  {
+    "value": "papaskarasi",
+    "label": "Papaskarasi"
+  },
+  {
+    "value": "mandilaria",
+    "label": "Mandilaria"
+  },
+  {
+    "value": "malvasia fina",
+    "label": "Malvasia Fina"
+  },
+  {
+    "value": "tempranillo-syrah",
+    "label": "Tempranillo-Syrah"
+  },
+  {
+    "value": "black monukka",
+    "label": "Black Monukka"
+  },
+  {
+    "value": "malvar",
+    "label": "Malvar"
+  },
+  {
+    "value": "erbaluce",
+    "label": "Erbaluce"
+  },
+  {
+    "value": "gouveio",
+    "label": "Gouveio"
+  },
+  {
+    "value": "zlahtina",
+    "label": "Zlahtina"
+  },
+  {
+    "value": "souzao",
+    "label": "Souzao"
+  },
+  {
+    "value": "marsanne-viognier",
+    "label": "Marsanne-Viognier"
+  },
+  {
+    "value": "cabernet moravia",
+    "label": "Cabernet Moravia"
+  },
+  {
+    "value": "malvasia di candia",
+    "label": "Malvasia di Candia"
+  },
+  {
+    "value": "rara neagra",
+    "label": "Rara Neagra"
+  },
+  {
+    "value": "zelen",
+    "label": "Zelen"
+  },
+  {
+    "value": "carcajolu",
+    "label": "Carcajolu"
+  },
+  {
+    "value": "vermentino nero",
+    "label": "Vermentino Nero"
+  },
+  {
+    "value": "tinta amarela",
+    "label": "Tinta Amarela"
+  },
+  {
+    "value": "tintilia ",
+    "label": "Tintilia "
+  },
+  {
+    "value": "grenache gris",
+    "label": "Grenache Gris"
+  },
+  {
+    "value": "loureiro-arinto",
+    "label": "Loureiro-Arinto"
+  },
+  {
+    "value": "tinta negra mole",
+    "label": "Tinta Negra Mole"
+  },
+  {
+    "value": "sauvignon blanc-assyrtiko",
+    "label": "Sauvignon Blanc-Assyrtiko"
+  },
+  {
+    "value": "muscadel",
+    "label": "Muscadel"
+  },
+  {
+    "value": "groppello",
+    "label": "Groppello"
+  },
+  {
+    "value": "irsai oliver",
+    "label": "Irsai Oliver"
+  },
+  {
+    "value": "chardonel",
+    "label": "Chardonel"
+  },
+  {
+    "value": "silvaner-traminer",
+    "label": "Silvaner-Traminer"
+  },
+  {
+    "value": "merseguera-sauvignon blanc",
+    "label": "Merseguera-Sauvignon Blanc"
+  },
+  {
+    "value": "uvalino",
+    "label": "Uvalino"
+  },
+  {
+    "value": "cabernet-malbec",
+    "label": "Cabernet-Malbec"
+  },
+  {
+    "value": "gelber traminer",
+    "label": "Gelber Traminer"
+  },
+  {
+    "value": "gamza",
+    "label": "Gamza"
+  },
+  {
+    "value": "verdil",
+    "label": "Verdil"
+  },
+  {
+    "value": "siegerrebe",
+    "label": "Siegerrebe"
+  },
+  {
+    "value": "syrah-malbec",
+    "label": "Syrah-Malbec"
+  },
+  {
+    "value": "tempranillo-malbec",
+    "label": "Tempranillo-Malbec"
+  },
+  {
+    "value": "tamjanika",
+    "label": "Tamjanika"
+  },
+  {
+    "value": "bacchus",
+    "label": "Bacchus"
+  },
+  {
+    "value": "kinali yapincak",
+    "label": "Kinali Yapincak"
+  },
+  {
+    "value": "terrantez",
+    "label": "Terrantez"
+  },
+  {
+    "value": "thrapsathiri",
+    "label": "Thrapsathiri"
+  },
+  {
+    "value": "cococciola",
+    "label": "Cococciola"
+  },
+  {
+    "value": "blauburgunder",
+    "label": "Blauburgunder"
+  },
+  {
+    "value": "albanello",
+    "label": "Albanello"
+  },
+  {
+    "value": "gros plant",
+    "label": "Gros Plant"
+  },
+  {
+    "value": "pigato",
+    "label": "Pigato"
+  },
+  {
+    "value": "kangoun",
+    "label": "Kangoun"
+  },
+  {
+    "value": "cercial",
+    "label": "Cercial"
+  },
+  {
+    "value": "torbato",
+    "label": "Torbato"
+  },
+  {
+    "value": "tinta cao",
+    "label": "Tinta Cao"
+  },
+  {
+    "value": "chardonnay-pinot gris",
+    "label": "Chardonnay-Pinot Gris"
+  },
+  {
+    "value": "morava",
+    "label": "Morava"
+  },
+  {
+    "value": "mavroudi",
+    "label": "Mavroudi"
+  },
+  {
+    "value": "pinot blanc-pinot noir",
+    "label": "Pinot Blanc-Pinot Noir"
+  },
+  {
+    "value": "tinto velasco",
+    "label": "Tinto Velasco"
+  },
+  {
+    "value": "tempranillo-tannat",
+    "label": "Tempranillo-Tannat"
+  },
+  {
+    "value": "barbera-nebbiolo",
+    "label": "Barbera-Nebbiolo"
+  },
+  {
+    "value": "piquepoul blanc",
+    "label": "Piquepoul Blanc"
+  },
+  {
+    "value": "prunelard",
+    "label": "Prunelard"
+  },
+  {
+    "value": "garnacha-cabernet",
+    "label": "Garnacha-Cabernet"
+  },
+  {
+    "value": "catalanesca",
+    "label": "Catalanesca"
+  },
+  {
+    "value": "merlot-petite verdot",
+    "label": "Merlot-Petite Verdot"
+  },
+  {
+    "value": "ramisco",
+    "label": "Ramisco"
+  },
+  {
+    "value": "favorita",
+    "label": "Favorita"
+  },
+  {
+    "value": "mavrokalavryta",
+    "label": "Mavrokalavryta"
+  },
+  {
+    "value": "dafni",
+    "label": "Dafni"
+  },
+  {
+    "value": "babosa negro",
+    "label": "Babosa Negro"
+  },
+  {
+    "value": "petit courbu",
+    "label": "Petit Courbu"
+  },
+  {
+    "value": "centesimino",
+    "label": "Centesimino"
+  },
+  {
+    "value": "paralleda",
+    "label": "Paralleda"
+  },
+  {
+    "value": "diamond",
+    "label": "Diamond"
+  },
+  {
+    "value": "portuguiser",
+    "label": "Portuguiser"
+  },
+  {
+    "value": "riesling-chardonnay",
+    "label": "Riesling-Chardonnay"
+  },
+  {
+    "value": "orangetraube",
+    "label": "Orangetraube"
+  },
+  {
+    "value": "biancolella",
+    "label": "Biancolella"
+  },
+  {
+    "value": "aidani",
+    "label": "Aidani"
+  },
+  {
+    "value": "cesanese",
+    "label": "Cesanese"
+  },
+  {
+    "value": "verdosilla",
+    "label": "Verdosilla"
+  },
+  {
+    "value": "vespaiolo",
+    "label": "Vespaiolo"
+  },
+  {
+    "value": "molinara",
+    "label": "Molinara"
+  },
+  {
+    "value": "sideritis",
+    "label": "Sideritis"
+  },
+  {
+    "value": "macabeo-moscatel",
+    "label": "Macabeo-Moscatel"
+  },
+  {
+    "value": "cabernet sauvignon-barbera",
+    "label": "Cabernet Sauvignon-Barbera"
+  },
+  {
+    "value": "karasakiz",
+    "label": "Karasakiz"
+  },
+  {
+    "value": "folle blanche",
+    "label": "Folle Blanche"
+  },
+  {
+    "value": "merlot-shiraz",
+    "label": "Merlot-Shiraz"
+  },
+  {
+    "value": "tamianka",
+    "label": "Tamianka"
+  },
+  {
+    "value": "schwartzriesling",
+    "label": "Schwartzriesling"
+  },
+  {
+    "value": "petit meslier",
+    "label": "Petit Meslier"
+  },
+  {
+    "value": "vidadillo",
+    "label": "Vidadillo"
+  },
+  {
+    "value": "misket",
+    "label": "Misket"
+  },
+  {
+    "value": "other",
+    "label": "Other"
+  },
+  {
+    "value": "syrah-grenache-viognier",
+    "label": "Syrah-Grenache-Viognier"
+  },
+  {
+    "value": "maria gomes-bical",
+    "label": "Maria Gomes-Bical"
+  },
+  {
+    "value": "bombino nero",
+    "label": "Bombino Nero"
+  },
+  {
+    "value": "chardonnay-riesling",
+    "label": "Chardonnay-Riesling"
+  },
+  {
+    "value": "mavrotragano",
+    "label": "Mavrotragano"
+  },
+  {
+    "value": "malagouzia-chardonnay",
+    "label": "Malagouzia-Chardonnay"
+  },
+  {
+    "value": "shiraz-roussanne",
+    "label": "Shiraz-Roussanne"
+  },
+  {
+    "value": "frankovka",
+    "label": "Frankovka"
+  },
+  {
+    "value": "pinotage-merlot",
+    "label": "Pinotage-Merlot"
+  },
+  {
+    "value": "maria gomes",
+    "label": "Maria Gomes"
+  },
+  {
+    "value": "moschofilero-chardonnay",
+    "label": "Moschofilero-Chardonnay"
+  },
+  {
+    "value": "pinot grigio-sauvignon blanc",
+    "label": "Pinot Grigio-Sauvignon Blanc"
+  },
+  {
+    "value": "meseguera",
+    "label": "Meseguera"
+  },
+  {
+    "value": "karalahna",
+    "label": "Karalahna"
+  },
+  {
+    "value": "kotsifali",
+    "label": "Kotsifali"
+  },
+  {
+    "value": "blatina",
+    "label": "Blatina"
+  },
+  {
+    "value": "merlot-argaman",
+    "label": "Merlot-Argaman"
+  },
+  {
+    "value": "espadeiro",
+    "label": "Espadeiro"
+  },
+  {
+    "value": "vital",
+    "label": "Vital"
+  },
+  {
+    "value": "sauvignonasse",
+    "label": "Sauvignonasse"
+  },
+  {
+    "value": "franconia",
+    "label": "Franconia"
+  },
+  {
+    "value": "syrah-bonarda",
+    "label": "Syrah-Bonarda"
+  },
+  {
+    "value": "roussanne-grenache blanc",
+    "label": "Roussanne-Grenache Blanc"
+  },
+  {
+    "value": "biancale",
+    "label": "Biancale"
+  },
+  {
+    "value": "albarossa",
+    "label": "Albarossa"
+  },
+  {
+    "value": "sauvignon blanc-sauvignon gris",
+    "label": "Sauvignon Blanc-Sauvignon Gris"
+  },
+  {
+    "value": "xinisteri",
+    "label": "Xinisteri"
+  },
+  {
+    "value": "teroldego rotaliano",
+    "label": "Teroldego Rotaliano"
+  },
+  {
+    "value": "biancu gentile",
+    "label": "Biancu Gentile"
+  },
+  {
+    "value": "pinot blanc-viognier",
+    "label": "Pinot Blanc-Viognier"
+  },
+  {
+    "value": "merlot-grenache",
+    "label": "Merlot-Grenache"
+  },
+  {
+    "value": "roditis-moschofilero",
+    "label": "Roditis-Moschofilero"
+  },
+  {
+    "value": "premsal",
+    "label": "Premsal"
+  },
+  {
+    "value": "jampal",
+    "label": "Jampal"
+  },
+  {
+    "value": "tokay pinot gris",
+    "label": "Tokay Pinot Gris"
+  },
+  {
+    "value": "colorino",
+    "label": "Colorino"
+  },
+  {
+    "value": "valvin muscat",
+    "label": "Valvin Muscat"
+  },
+  {
+    "value": "sercial",
+    "label": "Sercial"
+  },
+  {
+    "value": "blauburger",
+    "label": "Blauburger"
+  },
+  {
+    "value": "picapoll",
+    "label": "Picapoll"
+  },
+  {
+    "value": "trajadura",
+    "label": "Trajadura"
+  },
+  {
+    "value": "tinta madeira",
+    "label": "Tinta Madeira"
+  },
+  {
+    "value": "moscato di noto",
+    "label": "Moscato di Noto"
+  },
+  {
+    "value": "roscetto",
+    "label": "Roscetto"
+  },
+  {
+    "value": "torontel",
+    "label": "Torontel"
+  },
+  {
+    "value": "parraleta",
+    "label": "Parraleta"
+  },
+  {
+    "value": "francisa",
+    "label": "Francisa"
+  },
+  {
+    "value": "kuntra",
+    "label": "Kuntra"
+  },
+  {
+    "value": "pignolo",
+    "label": "Pignolo"
+  },
+  {
+    "value": "caprettone",
+    "label": "Caprettone"
+  },
+  {
+    "value": "ondenc",
+    "label": "Ondenc"
+  },
+  {
+    "value": "athiri",
+    "label": "Athiri"
+  },
+  {
+    "value": "bobal-cabernet sauvignon",
+    "label": "Bobal-Cabernet Sauvignon"
+  }
+]
