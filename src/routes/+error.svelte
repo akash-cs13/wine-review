@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Error</title> 
+</svelte:head>
+
 <script lang="ts">
     import { page } from "$app/state";
       import { goto } from '$app/navigation';

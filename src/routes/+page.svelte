@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Smoll-GPT</title> 
+</svelte:head>
+
 <script lang="ts">
   import Chat from "../lib/components/chat.svelte";
 </script>

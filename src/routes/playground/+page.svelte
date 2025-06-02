@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Playground</title> 
+</svelte:head>
+
 <script lang="ts">
     import { MyTokenizer } from "./Tokenizer";
     import { Checkbox } from "$lib/components/ui/checkbox";
