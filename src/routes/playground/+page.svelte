@@ -107,8 +107,7 @@
                                 on:mouseleave={() => (hoveredIndex = -1)}
                                 class={`inline ${hoveredIndex === i ? palette[i % palette.length] : ""}`}
                             >
-                                {token.id}
-                            </span>{#if i < encoded.length - 1},
+                                {token.id}</span>{#if i < encoded.length - 1},
                             {/if}
                         {/each}
                     </div>

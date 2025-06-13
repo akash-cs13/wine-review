@@ -47,9 +47,9 @@
 			>
 			<nav class="items-center gap-6 text-sm hidden md:flex">
 				<a
-					href="/docs"
+					href="/blog"
 					class="hover:text-foreground/80 transition-colors text-foreground/60"
-					>Docs</a
+					>Blog</a
 				>
 				<a
 					href="/playground"
@@ -122,12 +122,12 @@
 											>Home
 										</a>
 																				<a
-											href="/docs"
+											href="/blog"
 											class="ring-offset-background focus-visible:ring-ring inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-lg font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border-input bg-background hover:bg-accent hover:text-accent-foreground border px-4 py-2 w-full"
 											onclick={() => {
 												open = false;
 											}}
-											>Docs
+											>Blog
 										</a>										<a
 											href="/playground"
 											class="ring-offset-background focus-visible:ring-ring inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-lg font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border-input bg-background hover:bg-accent hover:text-accent-foreground border px-4 py-2 w-full"
